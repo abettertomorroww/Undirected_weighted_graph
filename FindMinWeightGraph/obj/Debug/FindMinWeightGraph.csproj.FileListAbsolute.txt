@@ -1,0 +1,10 @@
+C:\Users\admin\Source\Repos\FindMinWeightGraph\FindMinWeightGraph\bin\Debug\FindMinWeightGraph.exe.config
+C:\Users\admin\Source\Repos\FindMinWeightGraph\FindMinWeightGraph\bin\Debug\FindMinWeightGraph.exe
+C:\Users\admin\Source\Repos\FindMinWeightGraph\FindMinWeightGraph\bin\Debug\FindMinWeightGraph.pdb
+C:\Users\admin\Source\Repos\FindMinWeightGraph\FindMinWeightGraph\obj\Debug\FindMinWeightGraph.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\FindMinWeightGraph\FindMinWeightGraph\obj\Debug\FindMinWeightGraph.Properties.Resources.resources
+C:\Users\admin\Source\Repos\FindMinWeightGraph\FindMinWeightGraph\obj\Debug\FindMinWeightGraph.csproj.GenerateResource.cache
+C:\Users\admin\Source\Repos\FindMinWeightGraph\FindMinWeightGraph\obj\Debug\FindMinWeightGraph.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\FindMinWeightGraph\FindMinWeightGraph\obj\Debug\FindMinWeightGraph.exe
+C:\Users\admin\Source\Repos\FindMinWeightGraph\FindMinWeightGraph\obj\Debug\FindMinWeightGraph.pdb
+C:\Users\admin\Source\Repos\FindMinWeightGraph\FindMinWeightGraph\obj\Debug\FindMinWeightGraph.Form1.resources
